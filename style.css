@@ -10,3 +10,14 @@
     width: 740px;
     margin-left: 313px;
 }
+
+body {
+    color: #111;
+    background-color: #fdfdfd;
+    font-size: 16px;
+}
+
+header {
+    height: 58px;
+    border-bottom: 1px solid #e8e8e8;
+}
