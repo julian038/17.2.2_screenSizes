@@ -21,3 +21,17 @@ header {
     height: 58px;
     border-bottom: 1px solid #e8e8e8;
 }
+
+.site-title {
+    font-size: 26px;
+    line-height: 56px;
+}
+
+ul.post-list {
+    list-style: none;
+    padding: 0px;
+}
+
+h2 {
+    font-weight: 400;
+}
