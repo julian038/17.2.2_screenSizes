@@ -43,3 +43,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.site-title,
+.site-title:visited {
+    color: #424242;
+}
+
+.post-link {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+
+.post-link:visited {
+    color: #1756a9;
+}
+
