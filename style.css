@@ -58,3 +58,11 @@ a:hover {
     color: #1756a9;
 }
 
+.post-link:hover {
+    color: #111;
+}
+
+.post-meta {
+    color: #828282;
+    font-size: 14px;
+}
